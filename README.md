@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Morghan</h1>
 <h3 align="center">A passionate junior developer from Washington state</h3>
 
-- 🔭 I’m currently working on **Dance-Butler**
+- 🔭 I’m currently working on **React Portfolio Project (react ecommerce app)**
 
 - 🌱 I’m currently learning **Python**
 
